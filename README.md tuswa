@@ -1,0 +1,45 @@
+
+This project is a modern web application built using Lovable, designed to showcase the portfolio, profile, services, and digital presence of Emihle Tuswa. The website provides visitors with an interactive and responsive user experience across desktop and mobile devices.
+
+The platform highlights personal branding, projects, skills, and contact information in a clean and professional interface.
+
+---
+
+## Features
+
+- Responsive modern UI/UX
+- Mobile-friendly design
+- Interactive navigation
+- Portfolio/project showcase
+- Contact section
+- Fast-loading pages
+- Clean and minimal layout
+- Built with modern frontend technologies
+- Easy deployment and customization
+
+---
+
+## Tools Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Platform & Hosting
+- Lovable
+- Vercel / Netlify (optional deployment)
+
+### Development Tools
+- Git
+- GitHub
+
+---
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
